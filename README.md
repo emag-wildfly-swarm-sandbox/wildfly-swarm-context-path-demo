@@ -6,7 +6,7 @@ This is an example which changes the context path with yml.
 
 ``` sh
 ./mvnw clean package
-java -jar tar
+java -jar target/wildfly-swarm-context-path-demo-swarm.jar
 ```
 
 ## Access API
